@@ -3,6 +3,8 @@ etc/
 include/
 lib/
 share/
+__pycache__
+.ipynb_checkpoints/
 
 .Python
 pip-selfcheck.json
